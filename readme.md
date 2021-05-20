@@ -1,5 +1,5 @@
 # DiceGame
-An AI algorithm for playing dice game (dynamic programming)
+An AI algorithm for playing dice game
 
 ## Description
 
